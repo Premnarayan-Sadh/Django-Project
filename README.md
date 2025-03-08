@@ -17,9 +17,7 @@ The project directory is named **imageuploader-main** and contains the necessary
 
 Django-Project/ │── imageuploader-main/ # Main project folder │ ├── myapp/ # Django app │ │ ├── templates/ # HTML templates │ │ ├── forms.py # Form handling │ │ ├── models.py # Database models │ │ ├── views.py # Business logic │ ├── manage.py # Django project manager │ ├── db.sqlite3 # SQLite database (default) │ ├── requirements.txt # Dependencies file │ ├── README.md # Project documentation
 
-bash
-Copy
-Edit
+
 
 ## 🖥️ Setup Instructions  
 1. **Clone the repository**  
